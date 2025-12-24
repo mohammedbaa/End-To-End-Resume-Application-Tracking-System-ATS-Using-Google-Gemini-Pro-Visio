@@ -1,0 +1,13 @@
+conda create -p venv python==3.10 -y
+conda activate "D:\Large Language Model\End To End Resume Application Tracking System(ATS) Using Google Gemini P"
+conda activate venv/
+
+pip install -r requirements.txt
+
+
+1. Field to put my JD
+2. Upload PDF 
+3. PDF TO image -->processing --> Google Gimini pro 
+4. Prompts Template [Multiple Prompts]
+
+
